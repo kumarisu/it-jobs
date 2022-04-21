@@ -5,7 +5,7 @@ Description about it's jobs
 - Help reader understand basic definition terms
 - Help reader figure out overall jobs in it domain
   + jobs' position in overall flow of creating product
-  + jobs description (work conetent)
+  + jobs description (work content)
   + jobs skills requirement
   + jobs opportunities (salary, which skills improvement, achievable benefits?)
 
